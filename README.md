@@ -1,6 +1,6 @@
 # SSH-Github
 
-An  guide on how to add an SSH key to your github account
+A  guide on how to add an SSH key to your github account. [Original Author](https://github.com/ahmad-swedani)
 
 ___
 
