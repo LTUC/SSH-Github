@@ -64,4 +64,5 @@ open your repo and run this command
 git remote set-url origin SSH-URL
 ```
 
+Replace the SSH-URL with the one shown like in the picture, where the SSH-URL is now will be the SSH clone URL
 ### Done
