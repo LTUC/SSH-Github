@@ -56,6 +56,8 @@ ___
 
 ### `Important`: to change the remote from Https to SSH
 
+![img1](./assets/ssh-origin.png)
+
 open your repo and run this command
 
 ```bash
